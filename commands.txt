@@ -1,0 +1,12 @@
+CYBER SECURITY LAB - DOCUMENTED COMMANDS
+
+1. pwd - Shows the current directory.
+2. ls - Lists files and folders.
+3. cd - Changes the current directory.
+4. cat README.md - Displays the README file.
+5. git status - Shows the current Git status.
+6. git add . - Adds changes to staging.
+7. git commit -m "message" - Saves changes in Git history.
+8. git push origin main - Uploads commits to GitHub.
+9. git pull - Downloads remote changes.
+10. git log --oneline - Displays commit history.
