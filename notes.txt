@@ -1,0 +1,12 @@
+CYBER SECURITY LAB - LEARNING NOTES
+
+1. Git is a version control system.
+2. GitHub is an online platform for hosting repositories.
+3. A repository stores project files and their history.
+4. The git add command stages changes.
+5. The git commit command saves changes locally.
+6. The git push command uploads commits to GitHub.
+7. The git pull command brings remote changes to the local repository.
+8. A .gitignore file specifies files that Git should ignore.
+9. Sensitive information such as passwords and API keys should never be published.
+10. Public repositories allow other people to view published work.
